@@ -10,11 +10,6 @@ As football evolves in the modern era where teams spent huge amount of money on 
 
 Thus, this project aims to make use of the abundance of data that is ever present to us in today’s technology-driven world to generate meaningful insights for teams to adopt. 
 
-![alt text][logo]
-
-[logo]: 
-
-
 
 ## Objective
 
