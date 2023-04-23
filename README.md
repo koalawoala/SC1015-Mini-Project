@@ -1,11 +1,11 @@
 # SC1015 Mini Project
 
 ## Group Members
-#### Name: Sum Yuan Sen, Dominic Tay, Dhairya
+#### Sum Yuan Sen, Dominic Tay, Dhairya
 
 ## About
 
-The English Premier League is the most-watched sports league in the world and is contested by 20 clubs which operates on a system of promotion and relegations. 
+The *English Premier League* is the most-watched sports league in the world and is contested by 20 clubs which operates on a system of promotion and relegations. 
 As football evolves in the modern era where teams spent huge amount of money on player transfers, sponsorships etc. , it is clear that the stakes are high and teams are desperate to win.
 
 Thus, this project aims to make use of the abundance of data that is ever present to us in today’s technology-driven world to generate meaningful insights for teams to adopt. 
@@ -13,7 +13,7 @@ Thus, this project aims to make use of the abundance of data that is ever presen
 
 ## Objective
 
-To investigate factors that will maximise goals scored for a football team in the English Premier League, using data from past 5 seasons of the EPL (17/18 to 21/22)
+To investigate factors that will maximise goals scored for a football team in the *English Premier League*, using data from past 5 seasons of the *EPL (17/18 to 21/22)*
 
 ## Models Used
 
@@ -31,15 +31,15 @@ To investigate factors that will maximise goals scored for a football team in th
 * How to use different models for better trainings and predictions
 
 ## Files and folder descriptions
-* Codes: A Jupyter Notebook **(.ipynb file)** containing the main source code for the project.
-* Datasets: The English Premier League yearly datasets **(.csv files)** that is used in the project
-* Presentation Slides: Our group's powerpoint slides **(.pdf file)** for the project.
+* **Codes**: A Jupyter Notebook **(.ipynb file)** containing the main source code for the project.
+* **Datasets**: The English Premier League yearly datasets **(.csv files)** that is used in the project.
+* **Presentation Slides**: Our group's powerpoint slides **(.pdf file)** for the project.
 
 ## Contributions
 
-* Dhairya : Checkpoints 1 
-* Dominic : Checkpoints 2
-* Yuan Sen: Checkpoints 3 and 4
+* **Dhairya** : Checkpoints 1 
+* **Dominic** : Checkpoints 2
+* **Yuan Sen** : Checkpoints 3 and 4
 
 ## References
 * 1.6. nearest neighbors. scikit. (n.d.). Retrieved April 22, 2023, from https://scikit-learn.org/stable/modules/neighbors.html#classification
