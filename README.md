@@ -1,7 +1,8 @@
 # SC1015-Mini-Project
 
 ## Group Member
-Name: Sum Yuan Sen 
+### Name: Sum Yuan Sen 
+###       DOminic
 About
 Information here
 Objective
