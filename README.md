@@ -39,7 +39,7 @@ To investigate factors that will maximise goals scored for a football team in th
 ## Files and folder descriptions
 * **Codes**: A Jupyter Notebook **(.ipynb file)** containing the main source code for the project.
 * **Datasets**: The English Premier League yearly datasets **(.csv files)** that is used in the project.
-* **Presentation Slides**: Our group's powerpoint slides **(.pdf file)** for the project.
+* **Presentation Slides**: Our group's powerpoint slides **(.pdf file)** for the project. *If it shows "Unable to render rich display", refresh the webpage a few times.*
 
 ## Contributions
 
