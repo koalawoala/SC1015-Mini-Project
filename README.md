@@ -44,7 +44,7 @@ To investigate factors that will maximise goals scored for a football team in th
 ## Contributions
 
 * **Dhairya** : Checkpoints 1 
-* **Dominic** : Checkpoints 2
+* **Dominic** : Checkpoints 2 
 * **Yuan Sen** : Checkpoints 3 and 4
 
 ## References
