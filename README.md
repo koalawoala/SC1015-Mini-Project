@@ -53,4 +53,5 @@ To investigate factors that will maximise goals scored for a football team in th
 * English Premier League Dataset. Saif. (2022) Retrieved March 2, 2023, from  https://www.kaggle.com/datasets/saife245/english-premier-league
 * Create a Python Heatmap with Seaborn. Holland. (2018). Retrieved March 2, 2023, from https://absentdata.com/python-graphs/create-a-heat-map-with-seaborn/
 * Python BoxPlot Jupyter Notebook. Lowther. (2019). Retrieved March 19, 2023, from https://www.wafermovement.com/2019/08/pythonboxplotnotebook/
+* Making Plots in Jupyter Notebook Beautiful & More. Bipin. (2020). Retrieved March 19, 2023, from https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d
 
