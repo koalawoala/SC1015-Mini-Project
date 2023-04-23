@@ -43,9 +43,9 @@ To investigate factors that will maximise goals scored for a football team in th
 
 ## Contributions
 
-* **Dhairya** : Checkpoints 1 
-* **Dominic** : Checkpoints 2 
-* **Yuan Sen** : Checkpoints 3 and 4
+* **Dhairya** : Introduction, Data Preparation & Cleaning, Slides, Presentation Video
+* **Dominic** : Data Preprocessing and Visualization, Slides, Presentation Video
+* **Yuan Sen** : Model Training and Hyperparameter Tuning, Slides, Presentation Video
 
 ## References
 * 1.6. nearest neighbors. scikit. (n.d.). Retrieved April 22, 2023, from https://scikit-learn.org/stable/modules/neighbors.html#classification
