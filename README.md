@@ -2,7 +2,7 @@
 
 ## Group Member
 ### Name: Sum Yuan Sen 
-###       DOminic
+###        Dominic
 About
 Information here
 Objective
