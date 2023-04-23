@@ -1,7 +1,7 @@
 # SC1015 Mini Project
 
 ## Group Members
-#### Sum Yuan Sen, Dominic Tay, Dhairya
+#### Group 10: Sum Yuan Sen, Dominic Tay, Dhairya
 
 ## About
 
