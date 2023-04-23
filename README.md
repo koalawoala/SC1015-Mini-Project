@@ -30,7 +30,7 @@ To investigate factors that will maximise goals scored for a football team in th
 * How to use different models for better trainings and predictions
 
 ## Files and folder descriptions
-* Code: A Jupyter Notebook(.ipynb file) containing the main source code for the project.
+* Codes: A Jupyter Notebook(.ipynb file) containing the main source code for the project.
 * Datasets: The English Premier League yearly datasets(.csv files) that is used in the project
 * Presentation Slides: Our group's powerpoint slides(.pdf file) for the project.
 
