@@ -1,4 +1,4 @@
-# SC1015-Mini-Project
+# SC1015 Mini Project
 
 ## Group Members
 #### Name: Sum Yuan Sen, Dominic Tay, Dhairya
