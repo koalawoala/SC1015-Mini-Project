@@ -40,7 +40,7 @@ To investigate factors that will maximise goals scored for a football team in th
 * Dominic : Checkpoints 2
 * Yuan Sen: Checkpoints 3 and 4
 
-## Reference
+## References
 * 1.6. nearest neighbors. scikit. (n.d.). Retrieved April 22, 2023, from https://scikit-learn.org/stable/modules/neighbors.html#classification
 * Sklearn.ensemble.randomforestclassifier. scikit. (n.d.). Retrieved April 22, 2023, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 * English Premier League Dataset. Saif. (2022) Retrieved March 2, 2023, from  https://www.kaggle.com/datasets/saife245/english-premier-league
