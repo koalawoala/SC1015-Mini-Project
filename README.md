@@ -8,7 +8,13 @@
 The English Premier League is the most-watched sports league in the world and is contested by 20 clubs which operates on a system of promotion and relegations. 
 As football evolves in the modern era where teams spent huge amount of money on player transfers, sponsorships etc. , it is clear that the stakes are high and teams are desperate to win.
 
-Thus, this project aims to make use of the abundance of data that is ever present to us in today’s technology-driven world to generate meaningful insights for teams to adopt.  
+Thus, this project aims to make use of the abundance of data that is ever present to us in today’s technology-driven world to generate meaningful insights for teams to adopt. 
+
+![alt text][logo]
+
+[logo]: 
+
+
 
 ## Objective
 
